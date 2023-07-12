@@ -1,0 +1,6 @@
+Project using QGIS link:
+https://drive.google.com/file/d/1Jrh7-CEnXCBp1q8ms8xatOLLxQpt3uTc/view?usp=sharing
+
+Project using kepler.gl link:
+https://drive.google.com/file/d/10rXgIeVtLUCBufTxM7Qn1Nmrp0BzBq8s/view?usp=sharing
+
